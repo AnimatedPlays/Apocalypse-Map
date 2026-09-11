@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 6aca893bbdb380e40be322de5b27e134
-timeCreated: 1431276275
+guid: 74423cbef99ad234e9191594e6c27a06
+timeCreated: 1427456024
 licenseType: Store
 TextureImporter:
   fileIDToRecycleName: {}
@@ -27,16 +27,16 @@ TextureImporter:
   cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -1
-  maxTextureSize: 4096
+  maxTextureSize: 2048
   textureSettings:
     filterMode: -1
-    aniso: 16
+    aniso: -1
     mipBias: -1
     wrapMode: -1
   nPOTScale: 1
   lightmap: 0
   rGBM: 0
-  compressionQuality: -1
+  compressionQuality: 50
   allowsAlphaSplitting: 0
   spriteMode: 0
   spriteExtrude: 1
@@ -49,7 +49,7 @@ TextureImporter:
   textureType: 1
   buildTargetSettings:
   - buildTarget: Web
-    maxTextureSize: 2048
+    maxTextureSize: 1024
     textureFormat: -1
     compressionQuality: 50
     allowsAlphaSplitting: 0
@@ -64,5 +64,5 @@ AssetOrigin:
   productId: 48529
   packageName: Flooded Grounds
   packageVersion: 1.1
-  assetPath: Assets/Flooded_Grounds/Content/Textures/BLD_Cabins1_N.tif
+  assetPath: Assets/Flooded_Grounds/Content/Textures/BGR_Ocean_N.tif
   uploadId: 227274
